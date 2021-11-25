@@ -1,0 +1,19 @@
+{
+   "files.exclude": {
+      "node_modules": true,
+      "package-lock.json": true,
+   },
+   "highlight-matching-tag.styles": {
+      "opening": {
+         "full": {
+            "highlight": "rgba(140, 120, 10, 0.2)"
+         }
+      },
+      "closing": {
+         "full": {
+            "highlight": "rgba(40, 120, 10, 0.2)"
+         }
+      }
+    },
+    "highlight-matching-tag.highlightSelfClosing": true
+}
